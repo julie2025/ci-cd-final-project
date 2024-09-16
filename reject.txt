@@ -1,0 +1,3 @@
+protocol=https
+host=github.com
+path=https://github.com/julie2025/ci-cd-final-project
